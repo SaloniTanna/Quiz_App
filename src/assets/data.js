@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: " Which of the following is the correct name of React.js?",
+      option1: "React",
+      option2: "React.js",
+      option3: "ReactJS",
+      option4: "All of the above",
+      ans: 4,
+    },
+    {
+      question: "Which of the following command is used to install create-react-app?",
+      option1: "npm install -g create-react-app",
+      option2: "npm install create-react-app",
+      option3: "npm install -f create-react-app",
+      option4: "install -g create-react-app",
+      ans: 1 ,
+    },
+    {
+      question: "What of the following is used in React.js to increase performance?",
+      option1: "Original DOM",
+      option2: "Virtual DOM",
+      option3: "Both A and B.",
+      option4: "None of the above.",
+      ans: 2,
+    },
+    {
+      question: "A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?",
+      option1: "Constructor",
+      option2: "Class",
+      option3: "Object",
+      option4: "DataObject",
+      ans: 2,
+    },
+    {
+      question: "Which of the following acts as the input of a class-based component?",
+      option1: "Class",
+      option2: "Factory",
+      option3: "Render",
+      option4: "Props",
+      ans: 4,
+    },
+  ];
